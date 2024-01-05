@@ -12,9 +12,7 @@ Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (Pr
 - Worked closely with various stakeholders (e.g. Finance, Human Resources, Sales and Senior Management Team) to report data analysis and monthly search report results, catering to their needs and further improved automated business processes 
  
 ### Projects
-- **Analyzing Customer Churn in Tableau**
-
-- **Analyzing Customer Churn in Power BI**
+- **Analyzing Customer Churn in Tableau**: https://public.tableau.com/app/profile/yeo.shu.wen/viz/CustomerChurnAnalysisofTelco/ChurnAnalysisSampleA
 
 - **When Was the Golden Age of Video Games?**
 
