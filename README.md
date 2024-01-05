@@ -13,9 +13,15 @@ Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (Pr
  
 ### Projects
 **Analyzing Customer Churn in Tableau**
+
 **Analyzing Customer Churn in Power BI**
+
 **When Was the Golden Age of Video Games?**
+
 **Data-Driven Decision Making in SQL**
+
 **Analyzing Students' Mental Health in SQL**
+
 **School Budgeting with Machine Learning using Python**
+
 **Analyzing TV Data using Python**
