@@ -14,4 +14,6 @@ Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (Pr
 ### Projects
 - **Analyzing Customer Churn in Tableau**: https://public.tableau.com/app/profile/yeo.shu.wen/viz/CustomerChurnAnalysisofTelco/ChurnAnalysisSampleA
 
-- **Personal Finance Sample Visualisation**: https://public.tableau.com/app/profile/yeo.shu.wen/viz/PersonalFinanceTracking/PersonalFinanceTracking
+- **Personal Finance Sample Visualisation in Tableau**: https://public.tableau.com/app/profile/yeo.shu.wen/viz/PersonalFinanceTracking/PersonalFinanceTracking
+
+- **Python Case Study: Analysing TV Data**
