@@ -5,11 +5,11 @@ Bachelor of Business Management, Singapore Management University
 Majored in Accounting and Finance
 
 ### Certification
-Data Analyst Associate, Datacamp
+Data Analyst Associate, Datacamp: https://www.datacamp.com/certificate/DAA0017101875241
 
-Tableau Desktop Specialist, Tableau
+Tableau Desktop Specialist, Tableau: https://www.youracclaim.com/badges/5b2b5ede-3625-41c6-8e2d-073f70c76cfb?source=linked_in_profile
 
-Generative AI with Large Language Models, DeepLearning.AI
+Generative AI with Large Language Models, DeepLearning.AI: https://www.coursera.org/account/accomplishments/verify/NEJ7ASE77TC5
 
 ### Work Experience
 Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (Present)
