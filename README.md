@@ -6,7 +6,9 @@ Majored in Accounting and Finance
 
 ## Certification
 Data Analyst Associate @ Datacamp
-Tableau DEsktop Specialist @ Tableau
+
+Tableau Desktop Specialist @ Tableau
+
 Generative AI with Large Language Models @ DeepLearning.AI
 
 ### Work Experience
