@@ -12,7 +12,7 @@ Majored in Accounting and Finance
 - Generative AI with Large Language Models, DeepLearning.AI
 
 ### Work Experience
-Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (Present)
+Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (2020-Present)
 
 - Led end to end implementation of enterprise wide data visualisation using Tableau Server/Desktop/Prep, strengthening core digital competencies for better decision making at ATS
 - Performed data cleaning and automating efforts using advanced excel techniques / python script for data cleaning
