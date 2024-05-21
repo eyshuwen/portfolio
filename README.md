@@ -4,6 +4,11 @@
 Bachelor of Business Management, Singapore Management University
 Majored in Accounting and Finance
 
+## Certification
+Data Analyst Associate @ Datacamp
+Tableau DEsktop Specialist @ Tableau
+Generative AI with Large Language Models @ DeepLearning.AI
+
 ### Work Experience
 Current Job Post: Business Data Analyst @ Assurity Trusted Solutions Pte Ltd (Present)
 
