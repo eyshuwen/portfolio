@@ -4,7 +4,7 @@
 Bachelor of Business Management, Singapore Management University
 Majored in Accounting and Finance
 
-## Certification
+### Certification
 Data Analyst Associate, Datacamp
 
 Tableau Desktop Specialist, Tableau
